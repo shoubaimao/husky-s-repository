@@ -1,0 +1,1 @@
+# husky-s-repository
